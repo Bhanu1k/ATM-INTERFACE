@@ -1,4 +1,4 @@
-# Oasis-Infobyte-Java-Developement-Internship-task-3
+# Oasis-Infobyte-Java-Developement-Internship
 
 Hello #connections !!
 
